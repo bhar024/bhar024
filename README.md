@@ -2,7 +2,7 @@
 💙 I study computer science and mathematics at Mount Holyoke College </br>
 🌷 I am currently learning about data science
 
-Through my coursework, extracurrciculars and projects, I have gained experience in:
+Through my coursework, extracurriculars and projects, I have had the opportunity to gain experience in:
 <!-- Badges sourced from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
