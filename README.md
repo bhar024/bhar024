@@ -1,6 +1,7 @@
 👋 Hi, I'm Bhargavi! </br>
 💙 I study computer science and mathematics at Mount Holyoke College </br>
 🌷 I am currently learning about causal inference
+✉️ patil22b@mtholyoke.edu
 
 Through my coursework, extracurriculars and projects, I have had the opportunity to gain experience in:
 <!-- Badges sourced from https://github.com/Ileriayo/markdown-badges -->
