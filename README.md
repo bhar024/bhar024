@@ -1,11 +1,13 @@
 👋 Hi, I'm Bhargavi! </br>
 💙 I study computer science and mathematics at Mount Holyoke College </br>
-🌷 I am currently learning about causal inference </br>
+🌱 I previously interned at NVIDIA, working on data science and NLP, and am currently a Breakthrough Tech AI/ML Fellow at MIT Schwarzman College of Computing
+🌷 I am currently learning about causal inference & machine learning </br>
 ✉️ patil22b@mtholyoke.edu
 
 Through my coursework, extracurriculars and projects, I have had the opportunity to gain experience in:
 <!-- Badges sourced from https://github.com/Ileriayo/markdown-badges -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
