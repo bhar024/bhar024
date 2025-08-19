@@ -1,8 +1,8 @@
 👋 Hi, I'm Bhargavi! </br>
 💙 I study computer science and mathematics at Mount Holyoke College </br>
-🌱 I previously interned at NVIDIA, working on data science and NLP, and am currently a Breakthrough Tech AI/ML Fellow at MIT Schwarzman College of Computing
-🌷 I am currently learning about causal inference & machine learning </br>
-✉️ patil22b@mtholyoke.edu
+🌱 I previously interned at NVIDIA, working on data science and NLP, and am currently a Breakthrough Tech AI/ML Fellow at MIT Schwarzman College of Computing </br>
+🌷 I am exploring causal inference & machine learning </br>
+💌 I am always excited to dive deeper into my areas of interest through internships, research projects, and other avenues. I would love to hear from you! Feel free to reach out at patil22b@mtholyoke.edu
 
 Through my coursework, extracurriculars and projects, I have had the opportunity to gain experience in:
 <!-- Badges sourced from https://github.com/Ileriayo/markdown-badges -->
